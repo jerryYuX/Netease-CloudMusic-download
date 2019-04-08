@@ -1,5 +1,5 @@
 import axios from 'axios';
-let base = 'http://47.106.121.212:3000';
+let base = 'http://132.232.82.77:3000';
 axios.defaults.withCredentials = true;
 //login
 export const baseUrl = () => {
